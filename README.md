@@ -1,2 +1,2 @@
-# test-automation-guide
+# Test Automation Guide
 Test Automation Guide
